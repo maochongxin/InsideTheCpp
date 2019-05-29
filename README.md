@@ -105,11 +105,5 @@ Tree			// 随时优化改动
 
 ### 编译模型
 
-[浅谈C/C++编译模型(未完)](./CppCompilerModel.md)
-<<<<<<< HEAD
+[浅谈C/C++编译模型(未完)](./Compiler/CppCompilerModel.md)
 
-
-
-
-=======
->>>>>>> 92523bd74a97a5b581d10e16d7e78b3b0fb853d0
