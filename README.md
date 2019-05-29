@@ -39,6 +39,8 @@
 + 按格式修改README.
 + Pull Request.
 
+__因作者个人能力有限, 所写内容不可尽信, 如发现任何错误欢迎提交issue或者直接联系作者改正__
+
 
 
 ## Directory
@@ -104,3 +106,7 @@ Tree			// 随时优化改动
 ###编译模型
 
 [浅谈C/C++编译模型(未完)](./CppCompilerModel.md)
+
+
+
+
